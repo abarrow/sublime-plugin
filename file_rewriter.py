@@ -1,4 +1,4 @@
-import sublime
+import sublime 
 import sublime_plugin
 
 # This plugin expects the first line to contain field label of picklist field
